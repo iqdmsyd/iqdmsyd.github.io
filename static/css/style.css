@@ -1,0 +1,28 @@
+body {
+  height: 100%;
+  margin: 0;
+}
+
+.home {
+  padding: 15% 0;
+}
+
+.name {
+  font-weight: bolder;
+}
+
+.status {
+  font-style: italic;
+  font-size: 24px;
+}
+
+.desc {
+  font-size: 16px;
+}
+
+.fa {
+  color: black;
+}
+.fa:hover {
+  color: grey;
+}
